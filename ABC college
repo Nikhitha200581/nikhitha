@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC College</title>
+    <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+    <header>
+        <h1><img src="asset/ABC.png" height="50" > ABC College</h1>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#programs">Programs</a>
+        <a href="#admission">Admission</a>
+        <a href="#faculty">Faculty</a>
+    </nav>
+    <section id="about">
+        <h2>About us</h2>
+        <p>Welcome to Our College Website</p>
+    </section>
+    <section id="programs">
+        <h2>Programs offered</h2>
+    <ul>
+        <li>Bachelor's Degree</li>
+        <li>Master's Degree</li>
+        <li>Diploma Programs</li>
+    </ul>
+    </section>
+    <section id="admission">
+        <h2>Admission</h2>
+        <p>For More Admission datails Contact to - +91 89XXXXXXX1 <br>
+        Or Visit the College Office</p>
+    </section>
+    <section id="faculty">
+        <h2>Faculty</h2>
+        <ul type="square">
+            <li>Dr.Smith - Department of Computer Application</li>
+            <li>Prof.John - Department of Commerce</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy;2025 T.John College. All rights are reserved</p>
+        
+    </footer>
+</body>
+</html>
